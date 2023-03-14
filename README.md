@@ -7,3 +7,5 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I enjoy playing sports, watching anime and learning new things.
 
+[![Mathew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat-joseph)](https://github.com/mat-joseph/github-readme-stats)
+
