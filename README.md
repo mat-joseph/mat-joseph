@@ -29,12 +29,12 @@
   <tr>
     <th>Health Tracker</th>
     <th>A website for users to record diet,exercise and sleep habits; get health advice; and track their habits through visualisations</th>
-    <th>HTML,CSS,Javascript,Bootstrap,MySQL,Python and Flask/th>
+    <th>HTML,CSS,Javascript,Bootstrap,MySQL,Python and Flask</th>
   </tr>
   <tr>
     <th>Restaurant Management Application</th>
     <th>A web and mobile application where customers can order meals and the restaurant can monitor orders, view sales statistics and customise their menu</th>
-    <th>HTML,CSS,Bootstrap,MySQL,PHP,Android,Java and Javascript/th>
+    <th>HTML,CSS,Bootstrap,MySQL,PHP,Android,Java and Javascript</th>
   </tr>
 </table>
 
